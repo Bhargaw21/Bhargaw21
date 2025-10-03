@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Bhargaw, a passionate backend developer with a strong interest in Java, Spring Boot, and Cloud Computing. I enjoy building scalable applications and exploring cloud-native technologies. Always eager to learn and contribute to meaningful projects.<br><br>
+👋 Hi there! I'm Bhargaw, a backend developer with a strong interest in Java, Spring Boot, and Cloud Computing. I enjoy building scalable applications and exploring cloud-native technologies. Always eager to learn and contribute to meaningful projects.<br><br>
 
 
 ## 🌐 Socials:
